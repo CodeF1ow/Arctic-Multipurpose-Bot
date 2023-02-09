@@ -1,0 +1,49 @@
+{
+   "token": "",
+   "prefix": ".",
+   "ownerIDS": [
+      "YOUR ID"
+   ],
+   "fnbr": "43549683-4cdb-4eb5-8f1c-1b88dc82d910",
+   "fortnitetracker": "ac53a1db-3988-4cf5-888f-2518a1501abb",
+   "memer_api": "MEME-API",
+   "status": {
+      "text": "Your Text #1 | Your Text #2",
+      "text2": "❄️ {prefix}help | {guildcount} servidores | {membercount} miembros",
+      "type": "PLAYING",
+      "url": "YOUR URL"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalink.oops.wtf",
+            "port": 2000,
+            "password": "www.freelavalink.ga",
+            "secure": false
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "",
+      "clientID": ""
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "DISABLED"
+      }
+   }
+}
